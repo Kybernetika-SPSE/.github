@@ -4,11 +4,5 @@ Tabulku projektů najdete v záložce "[Projects/Projekty](https://github.com/or
 
 ## Trocha četby
 
-### Učebnice
-
- - [Blok kybernetiky](https://kybernetika-spse.github.io/skripta-kyb/#/)
- - [Blok elektrotechniky](https://github.com/Kybernetika-SPSE/pe-ar/wiki)
-
-### Pro začínající
-
+ - [Blok kybernetiky](https://kybernetika-spse.github.io/sgc/#/)
  - [Konstrukční příručka](https://kybernetika-spse.github.io/konstrukcni-prirucka/#/)
